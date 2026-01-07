@@ -12,7 +12,7 @@
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
-
+# <h1>HEADER</h1>
 <!--
   <<< Author notes: Step 2 >>>
   Start this step by acknowledging the previous step.
